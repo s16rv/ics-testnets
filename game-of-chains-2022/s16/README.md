@@ -1,4 +1,4 @@
-# s16 Chain Information
+# S16 Chain Information
 
 Contents
 

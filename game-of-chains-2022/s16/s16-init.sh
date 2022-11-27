@@ -9,10 +9,10 @@ NODE_HOME=~/.s16
 NODE_MONIKER=s16
 # ***
 
-CHAIN_BINARY_URL='https://github.com/hyphacoop/ics-testnets/raw/main/game-of-chains-2022/s16/s16d'
+CHAIN_BINARY_URL='https://github.com/s16rv/ics-testnets/raw/main/game-of-chains-2022/s16/s16d'
 CHAIN_BINARY='s16d'
 CHAIN_ID=s16-1
-PERSISTENT_PEERS="595923e093cbe11dea4f816b48e87691a614a964@34.82.58.71:26656,595923e093cbe11dea4f816b48e87691a614a964@34.145.117.181:26656"
+#PERSISTENT_PEERS="" #coming soon
 
 # Install go 1.19.2
 echo "Installing go..."

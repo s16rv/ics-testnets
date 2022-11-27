@@ -1,0 +1,13 @@
+{
+	"title": "Create the s16 chain",
+	"description": "This corrects  the issues found in prop-8. This is a new proposal (prop-9) to create the consumer chain \"s16-1\". Visit https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16 for details on this proposal's data and how to join the chain.",
+	"chain_id": "s16-1",
+	"initial_height": {
+		"revision_height": 1,
+		"revision_number": 1
+	},
+	"genesis_hash": "83abb080cf43eaab8b44cd963248e739aa6c85877bc1a17192d190aa23147263",
+	"binary_hash": "fbef0eaa4f372278f52089437807ce039e2913a8274918458ac280faa776b927",
+	"spawn_time": "2022-11-30T07:00:00.000000000Z",
+	"deposit": "1uprov"
+}

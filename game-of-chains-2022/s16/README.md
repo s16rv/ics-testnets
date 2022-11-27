@@ -1,4 +1,3 @@
-![S16 logo](https://raw.githubusercontent.com/s16rv/goc-public/main/sl.png)
 # s16 Chain Information
 
 Contents

@@ -6,14 +6,14 @@
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "0",
-          "address": "cosmos16h4y2kjnax4s9vwfn87tpl37emy7h4hhg3wn69",
+          "address": "cosmos1sw2cuffwlzndfs57czj29ttxrxtsgz9w2th2tu",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "0",
-          "address": "cosmos1rhvj25tutkld9p43y6w8pdfhcfzk270dc76tmn",
+          "address": "cosmos1uytq4m0yugh5ft5q567y9s798h3m06zwu8nl7p",
           "pub_key": null,
           "sequence": "0"
         },
@@ -37,11 +37,11 @@
     "bank": {
       "balances": [
         {
-          "address": "cosmos16h4y2kjnax4s9vwfn87tpl37emy7h4hhg3wn69",
+          "address": "cosmos1sw2cuffwlzndfs57czj29ttxrxtsgz9w2th2tu",
           "coins": [{ "amount": "1000000000000000", "denom": "usst" }]
         },
         {
-          "address": "cosmos1rhvj25tutkld9p43y6w8pdfhcfzk270dc76tmn",
+          "address": "cosmos1uytq4m0yugh5ft5q567y9s798h3m06zwu8nl7p",
           "coins": [{ "amount": "1000000000000000", "denom": "usst" }]
         },
         {

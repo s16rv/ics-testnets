@@ -1,6 +1,6 @@
 {
 	"title": "Create the s16 chain",
-	"description": "This corrects  the issues found in prop-8. This is a new proposal (prop-9) to create the consumer chain \"s16-1\". Visit https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16 for details on this proposal's data and how to join the chain.",
+	"description": "This corrects  the issues found in prop-8. This is a new proposal (prop-9) to create the consumer chain \"s16-1\". Visit https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16 and https://github.com/s16rv/s16 for details on this proposal's data and how to join the chain.",
 	"chain_id": "s16-1",
 	"initial_height": {
 		"revision_height": 1,

@@ -1,6 +1,6 @@
 {
 	"title": "Create the s16 chain",
-	"description": "This is a new proposal to create the consumer chain \"s16-1\". Visit https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16 and https://github.com/s16rv/s16 for details on this proposal's data and how to join the chain.",
+	"description": "This is a new proposal to create the consumer chain \"S16\". This chain specific to run only around 10 minutes so it won't consume too many of your resources in the Game of Chains. Its plan is to stop the chain at block height 3600.  Visit https://github.com/s16rv/ics-testnets/tree/main/game-of-chains-2022/s16 and https://github.com/s16rv/s16 for details on this proposal's data and how to join the chain. Kindly join our discussion at https://discord.com/channels/669268347736686612/1046398859858944020 .",
 	"chain_id": "s16-1",
 	"initial_height": {
 		"revision_height": 1,
